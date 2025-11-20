@@ -31,7 +31,7 @@ A **web application** for securely embedding and extracting hidden text in image
 ## Project Structure
 
 SecureStegoApp/  
-├── app.py                 # Main Streamlit application  
+├── app.py                 ( Main Streamlit application )  
 ├── key_qr_handler.py      # QR key generation and decoding  
 ├── otp_encrypt.py         # OTP-like encryption and decryption functions  
 ├── requirements.txt       # Python dependencies  
