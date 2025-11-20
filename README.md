@@ -58,6 +58,3 @@ SecureStegoApp/
 - The app works best with PNG images (lossless format)
 
 - Messages longer than the image capacity will throw an error
-
-git clone https://github.com/<username>/SecureStegoApp.git
-cd SecureStegoApp
